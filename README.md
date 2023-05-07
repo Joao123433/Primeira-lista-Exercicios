@@ -1,4 +1,4 @@
-                                                                        1ª. Lista de exercícios
+                                                        1ª. Lista de exercícios
 
 1 - Escreva um programa utilizando o comando switch que imprimao mês por extenso de acordo com o número digitado pelo usuário(entre 1 e 12).
 
